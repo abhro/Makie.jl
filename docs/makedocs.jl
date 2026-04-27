@@ -1,4 +1,4 @@
-ENV["JULIA_DEBUG"] = "Documenter"
+#ENV["JULIA_DEBUG"] = "Documenter"
 
 using Pkg
 cd(@__DIR__)
